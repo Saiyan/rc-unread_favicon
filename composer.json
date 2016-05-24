@@ -1,0 +1,14 @@
+{
+    "name": "saiyan/unread_favicon",
+    "type": "roundcube-plugin",
+    "license": "MIT",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://plugins.roundcube.net"
+        }
+    ],
+    "require": {
+        "roundcube/plugin-installer": ">=0.1.3"
+    }
+}
